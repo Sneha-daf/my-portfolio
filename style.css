@@ -67,3 +67,22 @@ footer {
     font-size: 14px;
     color: #6b7280;
 }
+
+main {
+    margin-top: 40px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-weight: 500;
+    color: #2563eb;
+}
+
+.hero {
+    background-color: #f1f5f9
+    padding: 40px;
+    border-radius: 12px;
+}
